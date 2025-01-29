@@ -10,9 +10,9 @@ Here you'll find:
 - **Test Notebooks**: Test notebooks where I applied machine learning concepts to real-world problems.
 - **Coding Activities**: Code and notebooks related to various machine learning algorithms and tasks.
 
-## 🔧 Technologies Used
+## 🔧 Tools Used
 
-The notebooks in this repository mainly utilize the following technologies:
+The notebooks in this repository mainly utilize the following tools:
 
 - Python
 - Jupyter Notebooks
