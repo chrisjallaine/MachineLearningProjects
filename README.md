@@ -26,4 +26,4 @@ The notebooks in this repository mainly utilize the following tools:
 To get started, simply clone this repository:
 
 ```bash
-git clone https://github.com/your-username/MachineLearningActivities.git
+git clone https://github.com/chrisjallaine/MachineLearningActivities.git
